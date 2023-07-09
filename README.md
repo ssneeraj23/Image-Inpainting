@@ -14,6 +14,9 @@ Our photos are often damaged over the years, old artifacts and manuscripts, over
 ## Output
 * Animal image reconstructed (256 x 256)
 
+  ![image](https://github.com/ssneeraj23/Image-Inpainting/assets/101348975/3782cce5-0d83-4f08-a56e-f4f560c64243)
+
+
 ### Some more results of the model are as follows
 ![Screenshot from 2023-07-08 13-59-57](https://github.com/ssneeraj23/Image-Inpainting/assets/101348975/079f1789-1e9f-4952-a51a-4c206b1fbee5)
 ![Screenshot from 2023-07-08 14-00-30](https://github.com/ssneeraj23/Image-Inpainting/assets/101348975/9c3ad5d2-1884-47ea-bce8-301ffc2a22cd)
